@@ -1,0 +1,6 @@
+{
+  "name": "دیوان حافظ شیرازی - گنجینه شعر و عرفان",
+  "description": "پرتال جامع دیوان حافظ با فال حافظ هوشمند، شرح و تفسیر عرفانی، جستجوی پیشرفته و هم‌نشین هوشمند حافظ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
